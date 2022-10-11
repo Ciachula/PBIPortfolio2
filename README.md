@@ -1,4 +1,4 @@
-# PowerBI - Portfolio Project 1
+# PowerBI - Portfolio Project 2
 ## Business Task
 - Visualize data from surveys 
 ## Dataset
