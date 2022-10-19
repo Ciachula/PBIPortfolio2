@@ -6,7 +6,7 @@
 ## Tools
 - Excel
 - PowerBI
-## Dashboard
+## Visualization below
 
 ![Data Survey - 1](https://user-images.githubusercontent.com/31890259/194960318-e05416c2-4ff0-40fc-9c00-cccc2ba807dc.PNG)
 <hr>
